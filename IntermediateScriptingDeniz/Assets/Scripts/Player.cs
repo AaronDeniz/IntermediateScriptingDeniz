@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Player
 {
+    internal static int playerCount;
+
     //Member variables can be referred to as
     // fields
     private int experience;
