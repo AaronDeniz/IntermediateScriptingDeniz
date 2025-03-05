@@ -13,7 +13,7 @@ public class GameOne : MonoBehaviour
 
         //you can access a static variable by using the class name
         //and the dot operator.
-        int x = Enemy.enemyCount;
+        int x = Enemy1.enemyCount;
          
     }
 
